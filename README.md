@@ -52,6 +52,8 @@ List of AI Hacking Agents - WORK IN PROGRESS PLEASE CONTRIBUTE!!
 | VulnBot                                              | https://github.com/KHenryAegis/VulnBot                                                                                                                                                                                   |                                                                                                                                                                                                        |                                                                 |
 |                                                      |                                                                                                                                                                                                                          |                                                                                                                                                                                                        |                                                                 |
 
+Todo 
+* https://github.com/yashab-cyber/HackGpt
 
 Other: 
 * ToolSafe https://github.com/MurrayTom/ToolSafe
