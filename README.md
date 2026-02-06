@@ -1,5 +1,5 @@
 # Awesome-AI-Hacking-Agents
-List of AI Hacking Agents - WORK IN PROGRESS PLEASE CONTRIBUTE!!
+List of AI Hacking Agents - WORK IN PROGRESS PLEASE CONTRIBUTE!! I know I'm missing many companies and several open source. 
 
 
 | Agent Name                                           | URL                                                                                                                                                                                                                      | Brief Description                                                                                                                                                                                      | Release / Announcement Date                                     |
