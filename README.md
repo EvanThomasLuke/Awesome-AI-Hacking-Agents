@@ -32,3 +32,13 @@ NeuroSploit - https://lnkd.in/dUWxAXA9
 guardian-cli - https://github.com/zakirkun/guardian-cli
 
 deadend-cli - https://github.com/xoxruns/deadend-cli
+
+HackSynth - https://github.com/aielte-research/HackSynth
+
+MAPTA - https://github.com/arthurgervais/mapta
+
+Shannon - https://github.com/KeygraphHQ/shannon
+
+HackGPT - https://github.com/yashab-cyber/HackGpt
+
+VulnBot - https://github.com/KHenryAegis/VulnBot
