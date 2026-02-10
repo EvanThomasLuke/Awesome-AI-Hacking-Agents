@@ -63,6 +63,127 @@ I'm still updating this list with benchmark scores and more comments.
 | 40 | llmitm                   | https://github.com/cybersharkvin/llmitm                                              | Github        | 2/4/26              |                                                                                                                                              |                                                                   |
 | 41 | redamon                  | https://github.com/samugit83/redamon                                                 | github        | 2/8/26              |                                                                                                                                              |                                                                   |
 
+
+# Darpa AIxCC 
+AIxCC Open Source Archive (links to all finalist CRS repos + infra/tools): https://archive.aicyberchallenge.com/
+
+DARPA 2025 AIxCC results announcement: https://www.darpa.mil/news/2025/aixcc-results
+
+1) Team Atlanta — ATLANTIS (1st place)
+
+URL: https://team-atlanta.github.io/
+
+GitHub repos:
+
+Semi-finals: https://github.com/Team-Atlanta/aixcc-asc-atlantis
+
+Finals: https://github.com/Team-Atlanta/aixcc-afc-atlantis
+
+Docs / writeups:
+
+Team blog (post-AFC writeup): https://team-atlanta.github.io/blog/post-afc/
+
+arXiv paper (ATLANTIS): https://arxiv.org/abs/2509.14589
+
+PDF report (ATLANTIS): https://daeryong.me/team-atlanta-atlantis.pdf
+
+2) Trail of Bits — Buttercup (2nd place)
+
+URL: https://trailofbits.com/buttercup/
+
+GitHub repos:
+
+Semi-finals: https://github.com/trailofbits/asc-buttercup
+
+Finals: https://github.com/trailofbits/afc-buttercup
+
+Docs / writeups:
+
+Buttercup overview page (links out to materials): https://trailofbits.com/buttercup/
+
+DEF CON stage talk slides (PDF): https://www.trailofbits.com/documents/DEFCON_AIxCC_Stage_Talk.pdf
+
+3) Theori — RoboDuck (3rd place)
+
+URL: https://theori.io/
+
+GitHub repos:
+
+Semi-finals: https://github.com/theori-io/aixcc-asc-archive
+
+Finals: https://github.com/theori-io/aixcc-afc-archive
+
+Theori AIxCC public landing/artifacts: https://github.com/theori-io/aixcc-public
+
+Docs / writeups:
+
+RoboDuck blog (implementation overview): https://theori.io/blog/aixcc-and-roboduck-63447
+
+4) All You Need Is A Fuzzing Brain — FuzzingBrain (4th place)
+
+Team URL: https://all-you-need-is-a-fuzzing-brain.github.io/
+
+GitHub repos:
+
+Semi-finals: https://github.com/o2lab/asc-crs-all-you-need-is-a-fuzzing-brain
+
+Finals: https://github.com/o2lab/afc-crs-all-you-need-is-a-fuzzing-brain
+
+Docs / writeups:
+
+arXiv paper: https://arxiv.org/abs/2509.07225
+
+PDF (same paper, hosted): https://www.doc.ic.ac.uk/~afd/papers/2025/AIxCC.pdf
+
+5) Shellphish — ARTIPHISHELL (5th place)
+
+Team URL: https://shellphish.net/aixcc/
+
+GitHub repos:
+
+Main repo: https://github.com/shellphish/artiphishell
+
+Semi-finals release tag: https://github.com/shellphish/artiphishell/releases/tag/Semi-Finals
+
+Finals release tag: https://github.com/shellphish/artiphishell/releases/tag/Finals
+
+Docs / writeups:
+
+Postmortem blog (“ARTIPHISHELL: The Requiem”): https://support.shellphish.net/blog/2025/08/22/shellphish-x-aixcc-pm/
+
+6) 42-b3yond-6ug — BugBuster (6th place)
+
+Team URL: https://b3yond.org/
+
+CRS page: https://b3yond.org/crs
+
+GitHub repos:
+
+Semi-finals: https://github.com/42-b3yond-6ug/42-b3yond-6ug-asc
+
+Finals: https://github.com/42-b3yond-6ug/42-b3yond-6ug-crs
+
+Docs / writeups:
+
+Their CRS page links to blog-style retrospectives (start here): https://b3yond.org/crs
+
+7) Lacrosse (SIFT) — Lacrosse CRS (7th place)
+
+Company URL (SIFT): https://www.sift.net/
+
+GitHub repos:
+
+Semi-finals: https://github.com/siftech/asc-crs-lacrosse
+
+Finals: https://github.com/siftech/afc-crs-lacrosse
+
+Docs / writeups:
+
+CTF Radiooo episode (team interview / architecture discussion): https://ctfradi.ooo/2025/07/17/01C-lacrosses-aixcc-final-submission.html
+
+(Playlist with multiple AIxCC team interviews, includes Lacrosse): https://www.youtube.com/playlist?list=PLFVmyX_rOm09ULieQIiA3Px2asBBNQVC5
+
+
 # Tencent Challenge (WIP)
 These are from Tencent challenge in fall 2025. 
 
