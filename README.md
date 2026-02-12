@@ -5,7 +5,7 @@ THESE REPOS ARE FOR EDUCATIONAL AND AUTHORIZED SECURITY TESTING PURPOSES ONLY.
 
 Please submit any I'm missing. You can just submit an issue with repo link and I will add to tables with details. 
 
-There are currently ~64 open source AI hacking agents listed. 
+There are currently ~64 open source AI hacking agents listed. I need to resort, some technically aren't agents. 
 
 Will be posting a comparative feature analysis soon (memory types, tools, etc). 
 
