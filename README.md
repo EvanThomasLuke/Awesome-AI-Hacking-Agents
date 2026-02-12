@@ -3,6 +3,8 @@ List of AI Hacking Agents - WORK IN PROGRESS PLEASE CONTRIBUTE!! I know I'm miss
 
 THESE REPOS ARE FOR EDUCATIONAL AND AUTHORIZED SECURITY TESTING PURPOSES ONLY. 
 
+Please submit any I'm missing. You can just submit an issue with repo link and I will add to tables with details. 
+
 Will be posting a comparative feature analysis soon (memory types, tools, etc). 
 
 Come chat about AI hacking agents in the AI Hacking Discord https://discord.com/channels/1422426099391922258/1422426100067471462/1469143844216897588
