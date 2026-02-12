@@ -234,6 +234,7 @@ https://projectzero.googleblog.com/2024/06/project-naptime.html
 https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
 * CalypsoAI https://calypsoai.com/
 * Casco https://casco.com/
+* Corridor dev https://corridor.dev/
 * Dreadnode https://dreadnode.io/
 * Harmony Intelligence https://www.harmonyintelligence.com/
 * Hex Security https://hex.co/
