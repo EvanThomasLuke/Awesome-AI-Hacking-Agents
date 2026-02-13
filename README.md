@@ -5,7 +5,7 @@ THESE REPOS ARE FOR EDUCATIONAL AND AUTHORIZED SECURITY TESTING PURPOSES ONLY.
 
 Please submit any I'm missing. You can just submit an issue with repo link and I will add to tables with details. 
 
-There are currently ~64 open source AI hacking agents listed. I need to resort, some technically aren't agents. 
+There are currently ~64 open source AI hacking agents listed. I need to re-sort and recategorize, some technically aren't agents. 
 
 Will be posting a comparative feature analysis soon (memory types, tools, etc). 
 
@@ -246,13 +246,11 @@ https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
 * Penligent https://penligent.ai/
 * Pentera https://pentera.io/
 * PentX https://pentx.ai/
+* qriousec https://qriousec.github.io/
 * RunSybil https://www.runsybil.com
 * SPLX https://splx.ai/
 * Terra Security https://www.terra.security
-* Theori — Xint / Xint Code
-https://xint.io/
-https://code.xint.io/
-https://theori.io/
+* Theori — Xint / Xint Code https://xint.io/, https://code.xint.io/, https://theori.io/
 * Veria Labs https://verialabs.com/
 * XBOW https://xbow.com
 
