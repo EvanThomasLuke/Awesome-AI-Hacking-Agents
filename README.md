@@ -237,6 +237,7 @@ https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
 * Casco https://casco.com/
 * Corridor dev https://corridor.dev/
 * Dreadnode https://dreadnode.io/
+* Hacktron https://www.hacktron.ai/
 * Harmony Intelligence https://www.harmonyintelligence.com/
 * Hex Security https://hex.co/
 * Horizon3.ai — https://horizon3.ai/
