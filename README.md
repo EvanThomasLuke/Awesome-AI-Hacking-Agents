@@ -280,6 +280,9 @@ https://github.com/rivian/ai-sast
 
 https://github.com/CyberStrikeus/CyberStrike
 
+https://github.com/pensarai/apex
+
+
 # Other (WIP)
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
