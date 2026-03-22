@@ -282,6 +282,7 @@ https://github.com/CyberStrikeus/CyberStrike
 
 https://github.com/pensarai/apex
 
+https://github.com/JoranHonig/grimoire
 
 # Other (WIP)
 
