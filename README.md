@@ -284,6 +284,8 @@ https://github.com/pensarai/apex
 
 https://github.com/JoranHonig/grimoire
 
+https://github.com/verialabs/ctf-agent
+
 # Other (WIP)
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
