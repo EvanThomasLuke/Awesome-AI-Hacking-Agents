@@ -286,6 +286,8 @@ https://github.com/JoranHonig/grimoire
 
 https://github.com/verialabs/ctf-agent
 
+https://github.com/pashov/ai-web3-security - add to skills and agents
+
 # Other (WIP)
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
