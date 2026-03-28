@@ -293,6 +293,9 @@ https://github.com/zakirkun/deep-eye
 
 https://github.com/hackerai-tech/hackerai
 
+https://github.com/pikpikcu/airecon
+
+
 # Other (WIP)
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
