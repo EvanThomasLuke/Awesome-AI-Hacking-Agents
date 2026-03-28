@@ -252,6 +252,7 @@ https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
 * PentX https://pentx.ai/
 * qriousec https://qriousec.github.io/
 * RunSybil https://www.runsybil.com
+* Shinobi Security https://shinobi.security
 * SPLX https://splx.ai/
 * Terra Security https://www.terra.security
 * Theori — Xint / Xint Code https://xint.io/, https://code.xint.io/, https://theori.io/
