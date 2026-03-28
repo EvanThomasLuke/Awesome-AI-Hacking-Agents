@@ -296,6 +296,8 @@ https://github.com/hackerai-tech/hackerai
 
 https://github.com/pikpikcu/airecon
 
+https://github.com/FunnyWolf/agentic-soc-platform
+
 
 # Other (WIP)
 
