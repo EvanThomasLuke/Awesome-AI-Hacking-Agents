@@ -301,6 +301,8 @@ https://github.com/pikpikcu/airecon
 
 https://github.com/FunnyWolf/agentic-soc-platform
 
+https://github.com/416rehman/DeepZero/tree/main
+
 
 # Other (WIP)
 
