@@ -254,6 +254,7 @@ https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
 * Pentera https://pentera.io/
 * PentX https://pentx.ai/
 * qriousec https://qriousec.github.io/
+* Revelion ai https://www.revelion.ai/
 * RunSybil https://www.runsybil.com
 * Shinobi Security https://shinobi.security
 * SPLX https://splx.ai/
