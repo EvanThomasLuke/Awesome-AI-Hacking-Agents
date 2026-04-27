@@ -231,6 +231,7 @@ https://zc.tencent.com/competition/competitionHackathon?code=cha004
 
 * Aikido https://www.aikido.dev/attack/aipentest
 * AISLE https://aisle.com/
+* bugbunny ai https://bugbunny.ai/
 * Google Project Zero / DeepMind — Project Naptime → Big Sleep (research program)
 https://projectzero.googleblog.com/2024/06/project-naptime.html
 https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
