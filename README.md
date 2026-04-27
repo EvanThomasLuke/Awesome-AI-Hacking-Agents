@@ -242,6 +242,7 @@ https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
 * Harmony Intelligence https://www.harmonyintelligence.com/
 * Hex Security https://hex.co/
 * Horizon3.ai — https://horizon3.ai/
+* Hound https://cyberhound.ai/
 * KinoSec https://kinosec.ai/
 * MindFort https://mindfort.ai/
 * Mindgard https://mindgard.ai/
