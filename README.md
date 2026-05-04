@@ -303,6 +303,8 @@ https://github.com/FunnyWolf/agentic-soc-platform
 
 https://github.com/416rehman/DeepZero/tree/main
 
+https://github.com/snyk/agent-scan
+
 
 # Other (WIP)
 
