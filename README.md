@@ -227,5 +227,9 @@ https://github.com/qriousec/colony_agent
 https://github.com/adshao/flounder
 https://github.com/vulhunt-re/vulhunt
 
+https://github.com/theteatoast/local-vuln-research-pipeline
+
+
+
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
