@@ -230,6 +230,11 @@ https://github.com/vulhunt-re/vulhunt
 https://github.com/theteatoast/local-vuln-research-pipeline
 
 
+https://github.com/cynative/cynative
+
+
+
+
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
 
