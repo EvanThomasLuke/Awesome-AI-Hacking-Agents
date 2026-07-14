@@ -233,6 +233,8 @@ https://github.com/theteatoast/local-vuln-research-pipeline
 https://github.com/cynative/cynative
 
 
+https://github.com/gigioneggiando/argo
+
 
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
