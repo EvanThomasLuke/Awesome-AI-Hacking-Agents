@@ -236,6 +236,8 @@ https://github.com/cynative/cynative
 https://github.com/gigioneggiando/argo
 
 
+https://github.com/capitalone/vulnhunter
+
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
