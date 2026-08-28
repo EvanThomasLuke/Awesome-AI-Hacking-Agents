@@ -248,6 +248,9 @@ https://github.com/thatskriptkid/re-harness
 https://github.com/ivRodriguezCA/MobHunt
 
 
+https://github.com/Awarexone/Agentic-Bug-Hunter
+
+
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
 
