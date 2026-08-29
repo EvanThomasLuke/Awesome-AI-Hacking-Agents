@@ -250,6 +250,8 @@ https://github.com/ivRodriguezCA/MobHunt
 
 https://github.com/Awarexone/Agentic-Bug-Hunter
 
+https://github.com/larlarua/AutoCVE
+
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
