@@ -252,6 +252,8 @@ https://github.com/Awarexone/Agentic-Bug-Hunter
 
 https://github.com/larlarua/AutoCVE
 
+https://github.com/dmdhrumilmistry/security-harness
+
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
