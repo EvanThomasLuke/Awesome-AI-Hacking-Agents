@@ -254,6 +254,15 @@ https://github.com/larlarua/AutoCVE
 
 https://github.com/dmdhrumilmistry/security-harness
 
+https://github.com/0sec-labs/0
+
+
+
+
+
+
+
+
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
