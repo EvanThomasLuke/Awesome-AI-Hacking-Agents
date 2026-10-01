@@ -273,3 +273,4 @@ AgentFence
 lists
 https://github.com/scadastrangelove/awesome-ai-security-tools
 https://github.com/skyvanguard/awesome-ai-pentesting
+https://github.com/LLMSecurity/awesome-agent-skills-security
