@@ -205,6 +205,7 @@ https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
 * Theori — Xint / Xint Code https://xint.io/, https://code.xint.io/, https://theori.io/
 * Veria Labs https://verialabs.com/
 * XBOW https://xbow.com
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 
 # Papers list (WIP) 
