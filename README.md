@@ -263,10 +263,22 @@ https://github.com/originsec/pocsmith
 https://github.com/grisuno/LazyOwn
 https://github.com/RicoKomenda/agentic-chaos
 
+https://github.com/nealbridges/VulnHunter
+
+
+
+
+
+
+
+
 
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
+
+
+
 
 
 
