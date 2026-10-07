@@ -265,7 +265,7 @@ https://github.com/RicoKomenda/agentic-chaos
 
 https://github.com/nealbridges/VulnHunter
 
-
+https://github.com/Autumn-27/ARTEX
 
 
 
