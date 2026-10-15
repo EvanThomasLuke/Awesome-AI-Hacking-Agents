@@ -14,6 +14,7 @@ Come chat about AI hacking agents in the AI Hacking Discord https://discord.gg/9
 # Todo 
 
 * add last commit and stars with csv so people can sort. Also add all benchmark scores.
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 * Merge tencent repos 
 
 # Devin Deepwiki / Google Code Wiki 
