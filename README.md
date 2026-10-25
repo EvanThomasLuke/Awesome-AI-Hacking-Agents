@@ -275,6 +275,8 @@ https://github.com/cskwork/scopeweaver
 https://github.com/SHAdd0WTAka/Zen-Ai-Pentest
 
 
+https://github.com/FunnyWolf/Viper
+
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
