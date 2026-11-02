@@ -295,6 +295,20 @@ https://github.com/hevnsnt/CVEngine
 https://github.com/JANUS-SEC/ZeroMDASH
 
 
+https://github.com/zan8in/afrog
+
+
+
+
+
+
+
+
+
+
+
+
+
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
 
