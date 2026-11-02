@@ -292,16 +292,15 @@ https://github.com/irraz/vulnerator-ai
 https://github.com/hevnsnt/CVEngine
 
 
+https://github.com/JANUS-SEC/ZeroMDASH
+
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
 
 
 
-
-
-
-lists
+# Lists
 https://github.com/scadastrangelove/awesome-ai-security-tools
 https://github.com/skyvanguard/awesome-ai-pentesting
 https://github.com/LLMSecurity/awesome-agent-skills-security
