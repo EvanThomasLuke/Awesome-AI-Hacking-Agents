@@ -302,7 +302,7 @@ https://github.com/omar-tamerr/horuseye
 
 https://github.com/AntiFox-AI/antifox
 
-
+https://github.com/offense-research/offense
 
 
 
