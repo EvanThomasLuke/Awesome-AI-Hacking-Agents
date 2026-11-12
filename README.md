@@ -305,6 +305,7 @@ https://github.com/AntiFox-AI/antifox
 https://github.com/offense-research/offense
 
 
+https://github.com/vectra-ai-research/Halberd
 
 
 
