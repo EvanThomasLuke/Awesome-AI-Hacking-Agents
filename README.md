@@ -308,6 +308,13 @@ https://github.com/offense-research/offense
 https://github.com/vectra-ai-research/Halberd
 
 
+https://github.com/ack3-ai/swarm
+
+
+
+
+
+# other todo 
 
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
