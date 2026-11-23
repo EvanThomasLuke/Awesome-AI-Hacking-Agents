@@ -207,6 +207,7 @@ https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
 * Theori — Xint / Xint Code https://xint.io/, https://code.xint.io/, https://theori.io/
 * Veria Labs https://verialabs.com/
 * XBOW https://xbow.com
+* VibeShield (OmniForge Launch Audit — 116-check web/JS secret scanner + MCP) https://vibe-checker.appwrite.network/ (OSS CI gate: https://github.com/zColdWater/vibeshield-action)
 
 
 # Papers list (WIP) 
